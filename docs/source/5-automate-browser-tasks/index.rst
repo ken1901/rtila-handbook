@@ -1,11 +1,3 @@
-.. role:: raw-latex(raw)
-   :format: latex
-..
-
-.. contents::
-   :depth: 3
-..
-
 5 Automate browser tasks
 ========================
 
@@ -31,7 +23,7 @@
 
 .. image:: ../Images/Screenshot_88.gif
 
-.. image:: ./Videos/Screencast_1.mp4
+.. image:: ../Videos/Screencast_1.mp4
 
 5-3 Use dynamic values
 ----------------------

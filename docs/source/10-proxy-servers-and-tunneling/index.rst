@@ -1,11 +1,3 @@
-.. role:: raw-latex(raw)
-   :format: latex
-..
-
-.. contents::
-   :depth: 3
-..
-
 10 Proxy servers and tunneling
 ==============================
 

@@ -1,11 +1,3 @@
-.. role:: raw-latex(raw)
-   :format: latex
-..
-
-.. contents::
-   :depth: 3
-..
-
 2 Activate and open the Launcher
 ================================
 

@@ -1,11 +1,3 @@
-.. role:: raw-latex(raw)
-   :format: latex
-..
-
-.. contents::
-   :depth: 3
-..
-
 1 Download and install RTILA Sudio
 ==================================
 
