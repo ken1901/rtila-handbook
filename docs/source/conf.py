@@ -6,7 +6,7 @@ project = 'RTILA'
 copyright = '2022, IKAJIAN SARL AU'
 author = 'IKAJIAN SARL AU'
 
-release = '0.1'
+release = '0.2'
 version = '5.2.1'
 
 # -- General configuration
