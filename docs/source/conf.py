@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'RTILA'
-copyright = '2022, IKAJIAN'
-author = 'IKAJIAN'
+copyright = '2022, IKAJIAN SARL AU'
+author = 'IKAJIAN SARL AU'
 
 release = '0.1'
 version = '5.2.1'
