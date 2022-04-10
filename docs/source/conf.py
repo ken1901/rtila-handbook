@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RTILA'
+copyright = '2022, IKAJIAN'
+author = 'IKAJIAN'
 
 release = '0.1'
-version = '0.1.0'
+version = '5.2.1'
 
 # -- General configuration
 
