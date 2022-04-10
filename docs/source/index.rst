@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
-===================================
+RTILA - Growth Hacking & Marketing Automation Software
+======================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
---------
+Due to the world's current crisis, we are lowering the price of our web scraping tool to increase its accessibility. Amid this situation, there's an opportunity for research and data analytics. We believe this software can help.
 
 .. toctree::
+   :maxdepth: 2
+   
+   1-download-and-install-rtila-sudio/index
+   2-activate-and-open-the-launcher/index
+   3-create-your-first-project/index
+   4-inspect-and-select-data/index
+   5-automate-browser-tasks/index
+   6-generate-standalone-bots/index
+   7-persistent-sessions-using-profiles/index
+   8-datasets-and-grouped-data/index
+   9-scrape-multiple-urls/index
+   10-proxy-servers-and-tunneling/index
+   11-integrations-and-autosave/index
+   12-advanced-options/index
+   13-additional-features/index
 
-   usage
-   api
+.. Indices and tables
+.. ==================
+
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
