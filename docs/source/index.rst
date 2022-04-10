@@ -2,7 +2,7 @@ RTILA - Growth Hacking & Marketing Automation Software
 ======================================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    
    1-download-and-install-rtila-sudio/index
    2-activate-and-open-the-launcher/index
