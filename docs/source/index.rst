@@ -1,8 +1,6 @@
 RTILA - Growth Hacking & Marketing Automation Software
 ======================================================
 
-Due to the world's current crisis, we are lowering the price of our web scraping tool to increase its accessibility. Amid this situation, there's an opportunity for research and data analytics. We believe this software can help.
-
 .. toctree::
    :maxdepth: 2
    
