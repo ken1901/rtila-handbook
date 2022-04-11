@@ -1,5 +1,5 @@
-RTILA - Official Documentation and Knowledge Base
-=================================================
+RTILA - Documentation and Knowledge Base
+========================================
 
 .. toctree::
    :maxdepth: 3
