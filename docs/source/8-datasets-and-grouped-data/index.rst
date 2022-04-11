@@ -1,11 +1,11 @@
-8 Datasets and grouped data
-===========================
+Datasets and grouped data
+=========================
 
 Datasets are used to get data with different sturctures from the same
 page.
 
-8-1 Add, update and export results
-----------------------------------
+Add, update and export results
+------------------------------
 
 .. image:: ../Images/Screenshot_73.png
 
@@ -23,8 +23,8 @@ page.
 
 .. image:: ../Images/Screenshot_80.png
 
-8-2 Nested datasets
--------------------
+Nested datasets
+---------------
 
 .. image:: ../Images/Screenshot_110.png
 
@@ -36,13 +36,13 @@ page.
 
 .. image:: ../Images/Screenshot_114.png
 
-8-3 Dataset types
------------------
+Dataset types
+-------------
 
 .. image:: ../Images/Screenshot_115.png
 
-8-3-1 List pages
-~~~~~~~~~~~~~~~~
+List pages
+~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_116.png
 
@@ -50,8 +50,8 @@ page.
 
 .. image:: ../Images/Screenshot_118.png
 
-8-3-2 Detail pages
-~~~~~~~~~~~~~~~~~~
+Detail pages
+~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_119.png
 
@@ -59,15 +59,15 @@ page.
 
 .. image:: ../Images/Screenshot_121.png
 
-8-4 Custom collections
-----------------------
+Custom collections
+------------------
 
 .. image:: ../Images/Screenshot_122.png
 
 .. image:: ../Images/Screenshot_123.png
 
-8-5 Dataset strategies
-----------------------
+Dataset strategies
+------------------
 
 .. image:: ../Images/Screenshot_124.png
 

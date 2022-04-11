@@ -1,8 +1,8 @@
-11 Integrations and autosave
-=============================
+Integrations and autosave
+=========================
 
-11-1 FTP/SFTP
--------------
+FTP/SFTP
+--------
 
 .. image:: ../Images/Screenshot_181.png
 
@@ -14,8 +14,8 @@
 
 .. image:: ../Images/Screenshot_185.png
 
-11-2 SMTP/Email
----------------
+SMTP/Email
+----------
 
 .. image:: ../Images/Screenshot_186.png
 
@@ -29,8 +29,8 @@
 
 .. image:: ../Images/Screenshot_191.png
 
-11-3 Webhook
-------------
+Webhook
+-------
 
 .. image:: ../Images/Screenshot_192.png
 
@@ -52,8 +52,8 @@
 
 .. image:: ../Images/Screenshot_197.png
 
-11-4 Local file
----------------
+Local file
+----------
 
 .. image:: ../Images/Screenshot_198.png
 

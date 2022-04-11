@@ -1,5 +1,5 @@
-1 Download and install RTILA Sudio
-==================================
+Download and install RTILA Sudio
+================================
 
 RTILA is a cross-platform software for Windows, Mac and Linux.
 

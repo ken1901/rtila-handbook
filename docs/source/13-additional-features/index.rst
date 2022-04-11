@@ -1,8 +1,8 @@
-13 Additional features
-======================
+Additional features
+===================
 
-13-1 Chart reports
-------------------
+Chart reports
+-------------
 
 .. image:: ../Images/Screenshot_237.png
 
@@ -26,8 +26,8 @@
 
 .. image:: ../Images/Screenshot_247.png
 
-13-2 JavaScript actions
------------------------
+JavaScript actions
+------------------
 
 https://jsonplaceholder.typicode.com/todos
 
@@ -89,8 +89,8 @@ https://jsonplaceholder.typicode.com/todos
 
 .. image:: ../Images/Screenshot_267.png
 
-13-3 CAPTCHA solving service
-----------------------------
+CAPTCHA solving service
+-----------------------
 
 https://patrickhlauke.github.io/recaptcha/
 

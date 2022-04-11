@@ -1,19 +1,19 @@
-9 Scrape multiple URLs
-======================
+Scrape multiple URLs
+====================
 
 .. image:: ../Images/Screenshot_136.png
 
 .. image:: ../Images/Screenshot_137.png
 
-9-1 Add manual entries
-----------------------
+Add manual entries
+------------------
 
 .. image:: ../Images/Screenshot_138.png
 
 .. image:: ../Images/Screenshot_139.png
 
-9-2 Import from file
---------------------
+Import from file
+----------------
 
 .. image:: ../Images/Screenshot_140.png
 
@@ -23,8 +23,8 @@
 
 .. image:: ../Images/Screenshot_143.png
 
-9-3 Import from project
------------------------
+Import from project
+-------------------
 
 .. image:: ../Images/Screenshot_144.png
 
@@ -34,8 +34,8 @@
 
 .. image:: ../Images/Screenshot_147.png
 
-9-4 Read XML sitemap
---------------------
+Read XML sitemap
+----------------
 
 .. image:: ../Images/Screenshot_148.png
 

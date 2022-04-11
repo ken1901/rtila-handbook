@@ -1,8 +1,8 @@
-7 Persistent sessions using profiles
-====================================
+Persistent sessions using profiles
+==================================
 
-7-1 Create a new profile
-------------------------
+Create a new profile
+--------------------
 
 .. image:: ../Images/Screenshot_39.png
 
@@ -10,8 +10,8 @@
 
 .. image:: ../Images/Screenshot_41.png
 
-7-2 Configure added profile
----------------------------
+Configure added profile
+-----------------------
 
 .. image:: ../Images/Screenshot_42.png
 
@@ -23,15 +23,15 @@
 
 .. image:: ../Images/Screenshot_46.png
 
-7-3 Assign a profile to new projects
-------------------------------------
+Assign a profile to new projects
+--------------------------------
 
 .. image:: ../Images/Screenshot_47.png
 
 .. image:: ../Images/Screenshot_53.png
 
-7-4 Install and configure browser extensions
---------------------------------------------
+Install and configure browser extensions
+----------------------------------------
 
 .. image:: ../Images/Screenshot_48.png
 

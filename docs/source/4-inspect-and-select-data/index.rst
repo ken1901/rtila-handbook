@@ -1,5 +1,5 @@
-4 Inspect and select data
-=========================
+Inspect and select data
+=======================
 
 .. image:: ../Images/Screenshot_8.png
 
@@ -7,8 +7,8 @@
 
 .. image:: ../Images/Screenshot_1.png
 
-4-1 Add new properties
-----------------------
+Add new properties
+------------------
 
 .. image:: ../Images/Screenshot_2.png
 
@@ -28,8 +28,8 @@
 
 .. image:: ../Images/Screenshot_12.png
 
-4-2 Extract multiple links
---------------------------
+Extract multiple links
+----------------------
 
 .. image:: ../Images/Screenshot_13.png
 
@@ -37,8 +37,8 @@
 
 .. image:: ../Images/Screenshot_15.png
 
-4-3 Get custom attribute values
--------------------------------
+Get custom attribute values
+---------------------------
 
 .. image:: ../Images/Screenshot_16.png
 
@@ -48,8 +48,8 @@
 
 .. image:: ../Images/Screenshot_19.png
 
-4-4 Download images and files
------------------------------
+Download images and files
+-------------------------
 
 .. image:: ../Images/Screenshot_292.png
 
@@ -67,8 +67,8 @@
 
 .. image:: ../Images/Screenshot_297.png
 
-4-5 Extract text from images
-----------------------------
+Extract text from images
+------------------------
 
 .. image:: ../Images/Screenshot_300.png
 
@@ -90,11 +90,11 @@
 
 .. image:: ../Images/Screenshot_309.png
 
-4-6 Data filters
-----------------
+Data filters
+------------
 
-4-6-1 Pre-built regular expression patterns
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pre-built regular expression patterns
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_26.png
 
@@ -104,8 +104,8 @@
 
 .. image:: ../Images/Screenshot_23.png
 
-4-6-2 Custom regular expressions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Custom regular expressions
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_21.png
 
@@ -113,8 +113,8 @@
 
 .. image:: ../Images/Screenshot_22.png
 
-4-6-3 Advanced JavaScript actions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Advanced JavaScript actions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_28.png
 
@@ -128,8 +128,8 @@
 
 .. image:: ../Images/Screenshot_32.png
 
-4-7 Conditions and logical operations
--------------------------------------
+Conditions and logical operations
+---------------------------------
 
 .. image:: ../Images/Screenshot_33.png
 

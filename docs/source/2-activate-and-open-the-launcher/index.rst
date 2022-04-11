@@ -1,5 +1,5 @@
-2 Activate and open the Launcher
-================================
+Activate and open the Launcher
+==============================
 
 .. image:: ../Images/Screenshot_211.png
 

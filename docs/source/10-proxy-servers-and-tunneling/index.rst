@@ -1,5 +1,5 @@
-10 Proxy servers and tunneling
-==============================
+Proxy servers and tunneling
+===========================
 
 **Public proxies**
 
@@ -13,22 +13,22 @@ Proxies with authorization (login and password) = USER:PASS@IP:PORT
 
 .. image:: ../Images/Screenshot_169.png
 
-10-1 Configure projects
------------------------
+Configure projects
+------------------
 
 .. image:: ../Images/Screenshot_150.png
 
 .. image:: ../Images/Screenshot_151.png
 
-10-1-1 Built-in rotation system
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Built-in rotation system
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_152.png
 
 .. image:: ../Images/Screenshot_153.png
 
-10-1-2 External proxy rotation API
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+External proxy rotation API
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_154.png
 
@@ -36,8 +36,8 @@ Proxies with authorization (login and password) = USER:PASS@IP:PORT
 
 .. _import-from-file-1:
 
-10-1-3 Import from file
-~~~~~~~~~~~~~~~~~~~~~~~
+Import from file
+~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_156.png
 
@@ -47,8 +47,8 @@ Proxies with authorization (login and password) = USER:PASS@IP:PORT
 
 .. image:: ../Images/Screenshot_159.png
 
-10-1-4 Use Tor Network
-~~~~~~~~~~~~~~~~~~~~~~
+Use Tor Network
+~~~~~~~~~~~~~~~
 
 ::
 
@@ -80,8 +80,8 @@ Proxies with authorization (login and password) = USER:PASS@IP:PORT
 
 .. image:: ../Images/Screenshot_168.png
 
-10-2 Rotate proxies and change IP Addresses
--------------------------------------------
+Rotate proxies and change IP Addresses
+--------------------------------------
 
 .. image:: ../Images/Screenshot_171.png
 
@@ -95,8 +95,8 @@ Proxies with authorization (login and password) = USER:PASS@IP:PORT
 
 .. image:: ../Images/Screenshot_176.png
 
-10-3 Set up a different proxy for each tab
-------------------------------------------
+Set up a different proxy for each tab
+-------------------------------------
 
 .. image:: ../Images/Screenshot_177.png
 

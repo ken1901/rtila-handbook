@@ -1,5 +1,5 @@
-3 Create your first project
-===========================
+Create your first project
+=========================
 
 In this example we will use the main screen to create a new project.
 
@@ -10,8 +10,8 @@ option the inspection button needs to be used manually.
 
 .. image:: ../Images/Screenshot_102.png
 
-3-1 Use the browser extension
------------------------------
+Use the browser extension
+-------------------------
 
 The software contains its own packed browser extension which is loaded
 automatically.
@@ -56,8 +56,8 @@ https://www.w3schools.com/cssref/css_selectors.asp
 
 .. image:: ../Images/Screenshot_228.png
 
-3-2 Start a project
--------------------
+Start a project
+---------------
 
 The software uses a local database (rtila-database) in the application
 data directory which by default points to:
@@ -82,8 +82,8 @@ data directory which by default points to:
 
 .. image:: ../Images/Screenshot_230.png
 
-3-3 Preview and export results
-------------------------------
+Preview and export results
+--------------------------
 
 .. image:: ../Images/Screenshot_231.png
 
