@@ -1,6 +1,32 @@
 Integrations and autosave
 =========================
 
+Connected cloud sheets
+----------------------
+
+.. image:: ../Images/Screenshot_310.png
+
+.. image:: ../Images/Screenshot_311.png
+
+.. image:: ../Images/Screenshot_312.png
+
+.. image:: ../Images/Screenshot_313.png
+
+.. image:: ../Images/Screenshot_314.png
+
+.. image:: ../Images/Screenshot_315.png
+
+.. image:: ../Images/Screenshot_316.png
+
+.. image:: ../Images/Screenshot_317.png
+
+.. image:: ../Images/Screenshot_318.png
+
+.. image:: ../Images/Screenshot_319.png
+
+.. image:: ../Images/Screenshot_320.png
+
+
 FTP/SFTP
 --------
 
