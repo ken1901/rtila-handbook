@@ -1,10 +1,10 @@
 Getting started
 ===============
 
-Download and install RTILA Sudio
---------------------------------
-
 RTILA is a cross-platform software for Windows, Mac and Linux.
+
+Download and install RTILA Studio
+--------------------------------
 
 You can download the latest version from the official GitHub repository
 at: https://github.com/IKAJIAN/rtila-releases/releases/tag/v5.2.0
