@@ -4,8 +4,7 @@ RTILA - Documentation and Knowledge Base
 .. toctree::
    :maxdepth: 3
    
-   1-download-and-install-rtila-sudio/index
-   2-activate-and-open-the-launcher/index
+   1-getting-started/index
    3-create-your-first-project/index
    4-inspect-and-select-data/index
    5-automate-browser-tasks/index
