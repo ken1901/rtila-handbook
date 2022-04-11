@@ -21,9 +21,11 @@ Record user behavior
 Run recorded project
 --------------------
 
-.. image:: ../Images/Screenshot_88.gif
+.. raw:: html
 
-.. image:: ../Videos/Screencast_1.mp4
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://www.youtube.com/watch?v=6RhuDZd8GEE" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
 
 Use dynamic values
 ------------------

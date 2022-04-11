@@ -1,5 +1,5 @@
-RTILA - Growth Hacking & Marketing Automation Software
-======================================================
+RTILA - Official Documentation and Knowledge Base
+=================================================
 
 .. toctree::
    :maxdepth: 3

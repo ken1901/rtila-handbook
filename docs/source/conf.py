@@ -6,7 +6,7 @@ project = 'RTILA'
 copyright = '2022, IKAJIAN SARL AU'
 author = 'IKAJIAN SARL AU'
 
-release = '0.1'
+release = '1.0'
 version = '5.2.1'
 
 # -- General configuration
@@ -33,5 +33,3 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
-
-html_extra_path = ["_html"]

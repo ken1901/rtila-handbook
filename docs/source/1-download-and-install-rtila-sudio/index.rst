@@ -8,8 +8,9 @@ at: https://github.com/IKAJIAN/rtila-releases/releases/tag/v5.2.0
 
 .. image:: ../Images/Screenshot_203.png
 
-**Self-signed certificate warnings:** Those warnings are simply letting
-you know that the installation file is self-signed.
+.. note::
+    Those warnings are simply letting
+    you know that the installation file is self-signed.
 
 .. image:: ../Images/Screenshot_204.png
 
