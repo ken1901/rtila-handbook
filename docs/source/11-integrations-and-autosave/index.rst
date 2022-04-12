@@ -1,7 +1,7 @@
 Integrations and autosave
 =========================
 
-Connected cloud sheets
+Cloud sheets
 ----------------------
 
 .. image:: ../Images/Screenshot_310.png
