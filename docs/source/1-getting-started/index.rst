@@ -1,10 +1,15 @@
 Getting started
 ===============
 
+Welcome to the user manual for RTILA Studio ! We value you as a user and we want to help you take full advantage of the software. The content of this handbook is suited for both beginners and advanced users.
+
+System requirements
+-------------------
+
 RTILA is a cross-platform software for Windows, Mac and Linux.
 
-Download and install RTILA Studio
---------------------------------
+Download and install
+--------------------
 
 You can download the latest version from the official GitHub repository
 at: https://github.com/IKAJIAN/rtila-releases/releases/tag/v5.2.0
