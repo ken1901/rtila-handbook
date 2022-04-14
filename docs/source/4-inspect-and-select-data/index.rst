@@ -1,6 +1,17 @@
 Inspect and select data
 =======================
 
+The software uses a local database (rtila-database) in the application
+data directory which by default points to:
+
+-  ``%APPDATA%`` on Windows
+-  ``$XDG_CONFIG_HOME`` or ``~/.config`` on Linux
+-  ``~/Library/Application Support`` on macOS
+
+.. image:: ../Images/Screenshot_107.png
+
+In this example we will try the cloning feature.
+
 .. image:: ../Images/Screenshot_8.png
 
 .. image:: ../Images/Screenshot_9.png

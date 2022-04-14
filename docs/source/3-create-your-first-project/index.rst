@@ -59,26 +59,7 @@ https://www.w3schools.com/cssref/css_selectors.asp
 Start a project
 ---------------
 
-The software uses a local database (rtila-database) in the application
-data directory which by default points to:
-
--  ``%APPDATA%`` on Windows
--  ``$XDG_CONFIG_HOME`` or ``~/.config`` on Linux
--  ``~/Library/Application Support`` on macOS
-
-.. image:: ../Images/Screenshot_107.png
-
-**Run a project manually**
-
 .. image:: ../Images/Screenshot_229.png
-
-**Create a scheduled project**
-
-.. image:: ../Images/Screenshot_104.png
-
-.. image:: ../Images/Screenshot_105.png
-
-.. image:: ../Images/Screenshot_106.png
 
 .. image:: ../Images/Screenshot_230.png
 

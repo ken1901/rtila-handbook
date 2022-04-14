@@ -12,6 +12,7 @@ RTILA - Documentation and Knowledge Base
    7-persistent-sessions-using-profiles/index
    8-datasets-and-grouped-data/index
    9-scrape-multiple-urls/index
+   2-schedule-project-runs/index
    10-proxy-servers-and-tunneling/index
    11-integrations-and-autosave/index
    12-advanced-options/index
