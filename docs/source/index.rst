@@ -1,6 +1,8 @@
 RTILA - Documentation and Knowledge Base
 ========================================
 
+Welcome to the user manual for RTILA Studio ! We value you as a user and we want to help you take full advantage of the software. The content of this handbook is suited for both beginners and advanced users.
+
 .. toctree::
    :maxdepth: 3
    
