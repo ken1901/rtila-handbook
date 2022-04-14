@@ -63,8 +63,8 @@ Start a project
 
 .. image:: ../Images/Screenshot_230.png
 
-Preview and export results
---------------------------
+Preview results
+---------------
 
 .. image:: ../Images/Screenshot_231.png
 
@@ -72,8 +72,22 @@ Preview and export results
 
 .. image:: ../Images/Screenshot_233.png
 
+Export data
+-----------
+
 .. image:: ../Images/Screenshot_234.png
 
-.. image:: ../Images/Screenshot_235.png
+CSV
+~~~
 
 .. image:: ../Images/Screenshot_236.png
+
+HTML
+~~~~
+
+.. image:: ../Images/Screenshot_322.png
+
+JSON
+~~~~
+
+.. image:: ../Images/Screenshot_235.png
