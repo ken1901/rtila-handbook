@@ -5,7 +5,7 @@ Welcome to the user manual for RTILA Studio ! We value you as a user and we want
 
 .. toctree::
    :maxdepth: 3
-   
+
    1-getting-started/index
    3-create-your-first-project/index
    4-inspect-and-select-data/index
@@ -19,6 +19,10 @@ Welcome to the user manual for RTILA Studio ! We value you as a user and we want
    11-integrations-and-autosave/index
    12-advanced-options/index
    13-additional-features/index
+
+   :caption: Use cases
+
+   14-automated-form-filling/index
 
 .. Indices and tables
 .. ==================
