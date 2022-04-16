@@ -3,6 +3,7 @@ Automated form filling
 
 .. toctree::
 
+
 HTML uses many form elements like input (text, password, checkbox, radio), label, textarea, select, option etc. In this use case we will work with this demo site: https://testpages.herokuapp.com/styled/basic-html-form-test.html
 
 Start a new project
@@ -60,6 +61,12 @@ Text input
 
 .. image:: ../../Images/Screenshot_330.png
 
+::
+
+    Username
+    [name="username"]
+    {{data|0}}
+
 .. image:: ../../Images/Screenshot_331.png
 
 Password input
@@ -68,6 +75,12 @@ Password input
 .. image:: ../../Images/Screenshot_332.png
 
 .. image:: ../../Images/Screenshot_333.png
+
+::
+
+    Password
+    [name="password"]
+    {{data|1}}
 
 .. image:: ../../Images/Screenshot_334.png
 
@@ -78,6 +91,12 @@ Textarea element
 
 .. image:: ../../Images/Screenshot_336.png
 
+::
+
+    Comment
+    [name="comments"]
+    {{data|2}}
+
 .. image:: ../../Images/Screenshot_337.png
 
 File upload input
@@ -86,6 +105,12 @@ File upload input
 .. image:: ../../Images/Screenshot_338.png
 
 .. image:: ../../Images/Screenshot_339.png
+
+::
+
+    Filename
+    [name="filename"]
+    {{data|3}}
 
 .. image:: ../../Images/Screenshot_364.png
 
@@ -96,6 +121,11 @@ Checkbox input
 
 .. image:: ../../Images/Screenshot_341.png
 
+::
+
+    Checkbox Items
+    [name="checkboxes[]"][value="{{data|4}}"]
+
 .. image:: ../../Images/Screenshot_342.png
 
 Radio input
@@ -104,6 +134,11 @@ Radio input
 .. image:: ../../Images/Screenshot_343.png
 
 .. image:: ../../Images/Screenshot_344.png
+
+::
+
+    Radio Items
+    [name="radioval[]"][value="{{data|5}}"]
 
 .. image:: ../../Images/Screenshot_345.png
 
@@ -114,6 +149,12 @@ Select multiple options
 
 .. image:: ../../Images/Screenshot_347.png
 
+::
+
+    Multiple Select Values
+    [name="multipleselect[]"]
+    {{data|6}}
+
 .. image:: ../../Images/Screenshot_348.png
 
 Select single option
@@ -122,6 +163,12 @@ Select single option
 .. image:: ../../Images/Screenshot_349.png
 
 .. image:: ../../Images/Screenshot_350.png
+
+::
+
+    Dropdown
+    [name="dropdown"]
+    {{data|7}}
 
 .. image:: ../../Images/Screenshot_351.png
 
@@ -132,7 +179,16 @@ Hidden input
 
 .. image:: ../../Images/Screenshot_378.png
 
+::
+
+    Hidden field
+    [name="hiddenField"]
+    {{data|8}}
+
 .. image:: ../../Images/Screenshot_379.png
+
+.. note::
+    Make sure that the "Mimic human typing" option is unchecked when working with hidden fields.
 
 Click on submit button
 ~~~~~~~~~~~~~~~~~~~~~~
