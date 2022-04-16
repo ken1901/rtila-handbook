@@ -2,7 +2,7 @@ Automated form filling
 ======================
 
 .. toctree::
-
+    :maxdepth: 5
 
 HTML uses many form elements like input (text, password, checkbox, radio), label, textarea, select, option etc. In this use case we will work with this demo site: https://testpages.herokuapp.com/styled/basic-html-form-test.html
 
