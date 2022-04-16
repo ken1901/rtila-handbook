@@ -3,3 +3,7 @@
 .wy-nav-content {
     max-width: none;
 }
+
+.rst-content img {
+    display: block;
+}

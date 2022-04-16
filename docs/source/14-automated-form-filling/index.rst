@@ -136,3 +136,27 @@ Run the project
 .. image:: ../Images/Screenshot_363.png
 
 .. image:: ../Gifs/Animation_1.gif
+
+Pull data from a CSV file
+-------------------------
+
+.. image:: ../Images/Screenshot_365.png
+
+.. image:: ../Images/Screenshot_366.png
+
+.. image:: ../Images/Screenshot_367.png
+
+.. image:: ../Images/Screenshot_368.png
+
+.. image:: ../Images/Screenshot_369.png
+
+.. image:: ../Images/Screenshot_370.png
+
+.. image:: ../Images/Screenshot_371.png
+
+.. image:: ../Images/Screenshot_372.png
+
+.. image:: ../Images/Screenshot_373.png
+
+.. image:: ../Images/Screenshot_374.png
+
