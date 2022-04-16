@@ -18,7 +18,6 @@ Welcome to the user manual for RTILA Studio ! We value you as a user and we want
    12-advanced-options/index
    13-additional-features/index
 
-   :caption: Use cases:
    14-use-cases/index
 
 .. Indices and tables
