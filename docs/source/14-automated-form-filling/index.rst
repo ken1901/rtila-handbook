@@ -1,7 +1,7 @@
 Automated form filling
 ======================
 
-https://testpages.herokuapp.com/styled/basic-html-form-test.html
+HTML uses many form elements like input (text, password, checkbox, radio), label, textarea, select, option etc. In this use case we will work with this demo site: https://testpages.herokuapp.com/styled/basic-html-form-test.html
 
 Start a new project
 -------------------
@@ -13,6 +13,8 @@ Start a new project
 Configure commands
 ------------------
 
+In this project only the automation panel will be used.
+
 Multiple values variable
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -21,6 +23,8 @@ Multiple values variable
 .. image:: ../Images/Screenshot_326.png
 
 .. image:: ../Images/Screenshot_327.png
+
+We will work with data below to fill the form, you can change file paths for accurate results.
 
 ::
 
