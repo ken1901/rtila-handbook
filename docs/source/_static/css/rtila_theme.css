@@ -5,5 +5,5 @@
 }
 
 .rst-content img {
-    display: block;
+    display: block !important;
 }
