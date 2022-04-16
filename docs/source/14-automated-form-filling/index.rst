@@ -1,12 +1,20 @@
 Automated form filling
 ======================
 
+https://testpages.herokuapp.com/styled/basic-html-form-test.html
+
+Start a new project
+-------------------
+
 .. image:: ../Images/Screenshot_323.png
 
 .. image:: ../Images/Screenshot_324.png
 
+Configure commands
+------------------
+
 Multiple values variable
-------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_325.png
 
@@ -14,10 +22,19 @@ Multiple values variable
 
 .. image:: ../Images/Screenshot_327.png
 
+::
+
+    username_1;password_1;comment_1;C:\Users\MY-PC\Documents\RTILA\filenames\1.txt;cb1;rd1;ms1,ms2;dd1;hidden_1
+    username_2;password_2;comment_2;C:\Users\MY-PC\Documents\RTILA\filenames\2.txt;cb2;rd2;ms3,ms4;dd2;hidden_2
+    username_3;password_3;comment_3;C:\Users\MY-PC\Documents\RTILA\filenames\3.txt;cb3;rd3;ms1,ms4;dd3;hidden_3
+    username_4;password_4;comment_4;C:\Users\MY-PC\Documents\RTILA\filenames\4.txt;cb1;rd1;ms2,ms3;dd4;hidden_4
+    username_5;password_5;comment_5;C:\Users\MY-PC\Documents\RTILA\filenames\5.txt;cb2;rd2;ms4,ms2;dd5;hidden_5
+    username_6;password_6;comment_6;C:\Users\MY-PC\Documents\RTILA\filenames\6.txt;cb3;rd3;ms3,ms1;dd6;hidden_6
+
 .. image:: ../Images/Screenshot_328.png
 
 Text input
-----------
+~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_329.png
 
@@ -26,7 +43,7 @@ Text input
 .. image:: ../Images/Screenshot_331.png
 
 Password input
---------------
+~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_332.png
 
@@ -35,7 +52,7 @@ Password input
 .. image:: ../Images/Screenshot_334.png
 
 Textarea element
-----------------
+~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_335.png
 
@@ -44,7 +61,7 @@ Textarea element
 .. image:: ../Images/Screenshot_337.png
 
 File upload input
------------------
+~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_338.png
 
@@ -53,7 +70,7 @@ File upload input
 .. image:: ../Images/Screenshot_364.png
 
 Checkbox input
---------------
+~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_340.png
 
@@ -62,7 +79,7 @@ Checkbox input
 .. image:: ../Images/Screenshot_342.png
 
 Radio input
------------
+~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_343.png
 
@@ -71,7 +88,7 @@ Radio input
 .. image:: ../Images/Screenshot_345.png
 
 Select multiple dropdown options
---------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_346.png
 
@@ -80,7 +97,7 @@ Select multiple dropdown options
 .. image:: ../Images/Screenshot_348.png
 
 Select single dropdown option
------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_349.png
 
@@ -89,7 +106,7 @@ Select single dropdown option
 .. image:: ../Images/Screenshot_351.png
 
 Click on submit button
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../Images/Screenshot_352.png
 
@@ -117,3 +134,5 @@ Run the project
 .. image:: ../Images/Screenshot_362.png
 
 .. image:: ../Images/Screenshot_363.png
+
+.. image:: ../Gifs/Animation_1.gif
