@@ -17,8 +17,8 @@ Configure commands
 
 In this project only the automation panel will be used.
 
-Multiple values variable
-~~~~~~~~~~~~~~~~~~~~~~~~
+List variable
+~~~~~~~~~~~~~
 
 .. image:: ../../Images/Screenshot_325.png
 
@@ -107,8 +107,8 @@ Radio input
 
 .. image:: ../../Images/Screenshot_345.png
 
-Select multiple dropdown options
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Select multiple options
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../Images/Screenshot_346.png
 
@@ -116,14 +116,23 @@ Select multiple dropdown options
 
 .. image:: ../../Images/Screenshot_348.png
 
-Select single dropdown option
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Select single option
+~~~~~~~~~~~~~~~~~~~~
 
 .. image:: ../../Images/Screenshot_349.png
 
 .. image:: ../../Images/Screenshot_350.png
 
 .. image:: ../../Images/Screenshot_351.png
+
+Hidden input
+~~~~~~~~~~~~
+
+.. image:: ../../Images/Screenshot_377.png
+
+.. image:: ../../Images/Screenshot_378.png
+
+.. image:: ../../Images/Screenshot_379.png
 
 Click on submit button
 ~~~~~~~~~~~~~~~~~~~~~~
