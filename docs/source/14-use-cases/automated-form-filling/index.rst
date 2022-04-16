@@ -39,6 +39,20 @@ We will work with data below to fill the form, you can change file paths for acc
 
 .. image:: ../../Images/Screenshot_328.png
 
+**Parsing parameters and variables**
+
+::
+
+    {{variable name}}
+
+::
+
+    {{variable name|column index}}
+
+.. image:: ../../Images/Screenshot_375.png
+
+.. image:: ../../Images/Screenshot_376.png
+
 Text input
 ~~~~~~~~~~
 
