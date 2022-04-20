@@ -1,6 +1,9 @@
 Pull data from a CSV file
 =========================
 
+.. toctree::
+   index
+
 All CSV and plain text files are supported. The Comma separator is used to work with multiple values so it's recommended to use other separators like Semicolon.
 
 .. image:: ../../Images/Screenshot_365.png

@@ -16,7 +16,7 @@ Welcome to the user manual for RTILA Studio ! We value you as a user and we want
    10-proxy-servers-and-tunneling/index
    11-integrations-and-autosave/index
    12-advanced-options/index
-   13-additional-features/index
+   13-extra-features/index
 
    14-use-cases/index
 
