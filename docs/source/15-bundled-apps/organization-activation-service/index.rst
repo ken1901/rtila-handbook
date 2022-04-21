@@ -1,7 +1,7 @@
-RTILA OAS Organization Activation Service
-=========================================
+Organization activation service
+===============================
 
-RTILA organization activation service is used to handle machine activations for the unlimited plan.
+RTILA OAS (organization activation service) is used to handle machine activations for the unlimited plan.
 
 The WordPress plugin can be downloaded from here: https://github.com/IKAJIAN/rtila-releases/releases/download/v5.2.0/rtila-oas.zip
 
