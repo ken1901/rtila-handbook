@@ -17,8 +17,8 @@ Welcome to the user manual for RTILA Studio ! We value you as a user and we want
    11-integrations-and-autosave/index
    12-advanced-options/index
    13-extra-features/index
-
    14-use-cases/index
+   15-bundled-apps/index
 
 .. Indices and tables
 .. ==================

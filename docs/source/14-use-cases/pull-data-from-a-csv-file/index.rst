@@ -33,4 +33,3 @@ Relative path
 .. image:: ../../Images/Screenshot_373.png
 
 .. image:: ../../Images/Screenshot_374.png
-
