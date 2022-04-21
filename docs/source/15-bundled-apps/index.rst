@@ -1,5 +1,5 @@
-Use cases
-=========
+Bundled apps
+============
 
 .. toctree::
    :maxdepth: 2
