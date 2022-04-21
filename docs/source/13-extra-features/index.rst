@@ -1,5 +1,5 @@
-Additional features
-===================
+Extra features
+==============
 
 Chart reports
 -------------
